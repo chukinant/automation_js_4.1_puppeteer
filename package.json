@@ -1,7 +1,6 @@
 {
   "name": "jsaqa_3_3",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "jest"
@@ -12,5 +11,13 @@
     "jest": "^27.3.1",
     "jest-puppeteer": "^6.0.0",
     "puppeteer": "^13.3.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chukinant/automation_js_4.1_puppeteer.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/chukinant/automation_js_4.1_puppeteer/issues"
   }
 }
